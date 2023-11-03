@@ -8,7 +8,7 @@
 <br/>
 🌱 Passionate about learning web development sector
 <br/>
-📫 Let's connect: <a href="https://www.linkedin.com/in/aam364/">Linkedin</a>
+📫 Let's connect: <a href="https://www.linkedin.com/in/aam364/">Abdullah Al Monir</a>
 <br/><br/>
 Open to contributing and new opportunities! 😊
 
